@@ -4,7 +4,7 @@
 
 ## Administración de Empresas
 
-* Título a obtener: Licenciado/a en Administración de Empresas
+* __Título a obtener:__ Licenciado/a en Administración de Empresas
 * Duración: 4 años 
 * Modalidad: Presencial - En Linea
 * Costo: $1 181 - 1 414 (referencial y puede variar)
@@ -32,7 +32,7 @@ Los costos son referenciales y pueden variar según el número de créditos, bec
 
 ## Contabilidad y Auditoría
 
-* \_\_Título a obtener:\_\_ Licenciado/a en Contabilidad y Auditoría
+* __Título a obtener:__ Licenciado/a en Contabilidad y Auditoría
 * Duración: 4 años
 * Modalidad: Presencial - En Linea
 * Costo: $1 169 - 1 402 (referencial y puede variar)
@@ -66,7 +66,7 @@ Formamos a nuestros estudiantes de acuerdo a las necesidades globales como son:
 
 ## Economía
 
-* \_\_Título a obtener:\_\_ Economista
+* __Título a obtener:__ Economista
 * Duración: 4 años
 * Modalidad: Presencial - En Linea
 * Costo: $1 169 - 1 417 (referencial y puede variar)
@@ -93,7 +93,7 @@ Los costos son referenciales y pueden variar según el número de créditos, bec
 
 ## Finanzas
 
-* \_\_Título a obtener:\_\_ Licenciado/a en Finanzas
+* __Título a obtener:__ Licenciado/a en Finanzas
 * Duración: 4 años
 * Modalidad: Presencial - En Linea
 * Costo: $1 191 - 1 439 (referencial y puede variar)
@@ -122,7 +122,7 @@ Los costos son referenciales y pueden variar según el número de créditos, bec
 
 ## Gastronomía
 
-* \_\_Título a obtener:\_\_ Licenciado/a en Gastronomía
+* __Título a obtener:__ Licenciado/a en Gastronomía
 * Duración: 4 años
 * Modalidad: Presencial 
 * Costo: $1 738 (referencial y puede variar)
