@@ -13,7 +13,7 @@ Los costos son referenciales y pueden variar según el número de créditos, bec
 
 
 
-## \### Descripción de la Carrera
+### Descripción de la Carrera
 
 > Formamos profesionales competentes, líderes humanistas y emprendedores en el área de las ciencias administrativas y empresariales.
 
@@ -29,7 +29,6 @@ Los costos son referenciales y pueden variar según el número de créditos, bec
 
 ------------------------------------------------------------------------------------------
 
-## 
 
 ## Contabilidad y Auditoría
 
@@ -42,7 +41,7 @@ Los costos son referenciales y pueden variar según el número de créditos, bec
 
 
 
-## \### Descripción de la Carrera
+### Descripción de la Carrera
 
 
 
@@ -64,7 +63,6 @@ Formamos a nuestros estudiantes de acuerdo a las necesidades globales como son:
 
 ------------------------------------------------------------------------------------------
 
-## 
 
 ## Economía
 
@@ -77,7 +75,7 @@ Los costos son referenciales y pueden variar según el número de créditos, bec
 
 
 
-## \### Descripción de la Carrera
+### Descripción de la Carrera
 
 
 
@@ -104,7 +102,7 @@ Los costos son referenciales y pueden variar según el número de créditos, bec
 
 
 
-## \### Descripción de la Carrera
+### Descripción de la Carrera
 
 
 
@@ -133,7 +131,7 @@ Los costos son referenciales y pueden variar según el número de créditos, bec
 
 
 
-## \### Descripción de la Carrera
+### Descripción de la Carrera
 
 
 
