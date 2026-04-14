@@ -1,10 +1,10 @@
-# Malla curricular de la carrera de computación 
+# __Malla curricular de la carrera de computación__
 
-## Informacion general
+## Información general
 
-Facultad: Ingenierias Y Arquitectura
+__Facultad:__ Ingenierías Y Arquitectura
 
- * Modalidad: Presencial periodo octube 2026 - febrebo 2027
+ * __Modalidad:__ Presencial periodo octubre 2026 - febrero 2027
  * Título a obtener: Ingeniero/a en Ciencias de la Computación
  * Duración: 4 años y medio
  * Modalidad: Presencial
@@ -12,12 +12,6 @@ Facultad: Ingenierias Y Arquitectura
 
 Los costos son referenciales y pueden variar según el número de créditos, becas y descuentos a los que acceda cada estudiante.
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
 
 ## Descripción de la Carrera
 
