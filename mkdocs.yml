@@ -1,9 +1,9 @@
 site_name: My Docs
 site_name: Oferta Academica UTPL
-site_url: https://universidad-sergi.github.io/oferta
+site_url: https://universidad-utpl-actividades.github.io/malla-curricular-Actividad/
 
 theme:
-  name: readthedocs  # Este tema es mucho más simple y menos "pro" que el anterior
+  name: mkdocs  
 
 nav:
   - Inicio: index.md
