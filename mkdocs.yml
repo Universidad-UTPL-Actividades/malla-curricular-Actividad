@@ -1,1 +1,20 @@
 site_name: My Docs
+site_name: Oferta Académica UTPL
+site_url: https://tu-usuario-github.github.io/oferta/
+site_author: Sergi Montaño Galarza
+site_description: Catálogo oficial de carreras y títulos otorgados.
+
+theme:
+  name: material
+  palette:
+    primary: indigo # Color institucional
+    accent: indigo
+  features:
+    - navigation.tabs # Navegación clara entre secciones
+
+nav:
+  - Inicio: index.md
+  - Ciencias Administrativas: administrativa.md
+  - Ciencias Sociales: sociales.md
+  - Ciencias Exactas: exactas.md
+  - Ciencias de la Salud: salud.md
