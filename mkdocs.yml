@@ -2,8 +2,7 @@ site_name: My Docs
 site_name: Oferta Academica UTPL
 site_url: https://universidad-utpl-actividades.github.io/malla-curricular-Actividad/
 
-theme:
-  name: mkdocs  
+
 
 nav:
   - Inicio: index.md
